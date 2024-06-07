@@ -21,6 +21,10 @@ The Maclaren Animated Landing Page is designed to provide visitors with an immer
 - Call-to-action buttons for further engagement and exploration.
 - Social media links for connecting with the brand on various platforms.
 
+## Deployment
+
+[Check out the deployed application](https://sachin7070.github.io/McLaren-Landing-Page/#)
+
 ## Usage
 
 To view the Maclaren Animated Landing Page, simply open the `index.html` file in your web browser. Navigate through the different sections using the navigation bar and explore the features of the Maclaren 720S.
